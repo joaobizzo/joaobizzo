@@ -17,10 +17,6 @@ My name is João Bizzo, Im a Computer Engineering student, passionate to learn
 
 Let's code! 👨‍💻 <br>
 
-***"    catch frase   "***
-<sub> Guy </sub> <br>
-<sup> PS: Quote by one of my biggest inspirations in life!</sup>
-
  
 <div align="center">
  <a href="https://linktr.ee/joaobizzo">
