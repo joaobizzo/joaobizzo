@@ -18,6 +18,8 @@ My name is João Bizzo, Im a Computer Engineering student, passionate to learn
 
 Let's code! 👨‍💻 <br>
 
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=monokai&line_height=40&hide=css"/> </a>
+<a href=""> <img align="right" src="https://streak-stats.demolab.com?user=laryferreira&theme=monokai&hide_border=true)](https://git.io/streak-stats"/> </a>
  
 <div align="center">
  <a href="https://linktr.ee/joaobizzo">
