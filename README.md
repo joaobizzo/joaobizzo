@@ -24,8 +24,6 @@ Let's code! 👨‍💻 <br>
 <div align="center">
  <a href="https://linktr.ee/joaobizzo">
  <a href="https://github.com/joaobizzo">
- <img height="120em" src="https://github-readme-stats.vercel.app/api?username=joaobizzo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobizzo&layout=compact&langs_count=7&theme=dark"/>
  
 <div align="center">
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
