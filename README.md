@@ -18,10 +18,7 @@ My name is João Bizzo, Im a Computer Engineering student, passionate to learn
 
 Let's code! 👨‍💻 <br>
 
-<div align="center">
 
-<a href=""> <img align="right" src="https://streak-stats.demolab.com?user=joaobizzo&theme=monokai&hide_border=true)](https://git.io/streak-stats"/> </a>
- </div>
  
 <div align="center">
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
