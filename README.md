@@ -12,9 +12,8 @@
 
 Welcome!
 My name is João Bizzo, Im a Computer Engineering student, passionate to learn  
-- 🌱 I’m focused on learning about Data Science with Python!
-- 🤔 I’m looking for help to understand machine learning and neural networks!
-- 💬 You can ask me what I know about blockchain.
+- 🌱 I’m focused on learning about machine learning!
+- 🤔 I’m looking for help to understand deep neural networks!
 
 Let's code! 👨‍💻 <br>
 
