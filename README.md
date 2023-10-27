@@ -1,4 +1,4 @@
-c
+
 ### Hello There! I'm João!
 
 <div>
@@ -20,7 +20,4 @@ Let's code! 👨‍💻 <br>
 
  
 <!-- Ranking de Linguagens -->
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaobizzo&layout=compact&langs_count=15&theme=dracula&line_height=40&hide=css"/> </a>
-  
-  
- 
+
